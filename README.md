@@ -21,50 +21,6 @@ You can paste your code into the app, and it will give suggestions and improveme
    git clone https://github.com/adityapandey77/AI-code-reviewer.git
    cd AI-code-reviewer
 
-Backend setup
-
+2.**Backend setup**
 cd Backend
 npm install
-
-
-Create a file named .env in the Backend folder and add:
-
-PORT=5000
-MONGODB_URI=your_mongodb_uri
-AI_API_KEY=your_api_key_here
-
-
-Frontend setup
-
-cd ../Frontend
-npm install
-
-
-Run the project
-
-Start backend:
-
-cd Backend
-npm start
-
-
-Start frontend:
-
-cd ../Frontend
-npm run dev
-
-
-Open http://localhost:3000
- in your browser.
-
-📖 Usage
-
-Open the app.
-
-Paste your code.
-
-Get AI feedback and suggestions instantly.
-
-🤝 Contributing
-
-Want to improve this project? Fork the repo and create a pull request.
