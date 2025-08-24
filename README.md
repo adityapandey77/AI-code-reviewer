@@ -58,7 +58,7 @@ npm run dev
 5.Open http://localhost:3000
  in your browser.
 
-** 📖 Usage**
+📖** Usage**
 
 Open the app.
 
@@ -66,6 +66,6 @@ Paste your code.
 
 Get AI feedback and suggestions instantly.
 
-**🤝 Contributing**
+🤝 **Contributing**
 
 Want to improve this project? Fork the repo and create a pull request.
