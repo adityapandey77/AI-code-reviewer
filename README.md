@@ -12,8 +12,7 @@ You can paste your code into the app, and it will give suggestions and improveme
 ## 🛠️ Tech Stack
 - **Frontend:** React, CSS, HTML  
 - **Backend:** Node.js, Express  
-- **Database:** MongoDB  
-- **AI API:** (like OpenAI API – put your key in `.env` file)
+- **AI API:** (like GOOGLE GEMINI – put your key in `.env` file)
 
 ## 🚀 How to Run Locally
 
