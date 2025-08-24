@@ -25,3 +25,35 @@ You can paste your code into the app, and it will give suggestions and improveme
   ```bash
 cd Backend
 npm install
+```
+
+
+Create a file named .env in the Backend folder and add:
+```bash
+PORT=5000
+MONGODB_URI=your_mongodb_uri
+AI_API_KEY=your_api_key_here
+```
+
+3.Frontend setup
+```
+cd ../Frontend
+npm install
+```
+
+4.Run the project
+
+Start backend:
+```
+cd Backend
+npm start
+```
+
+Start frontend:
+```
+cd ../Frontend
+npm run dev
+```
+
+5.Open http://localhost:3000
+ in your browser.
