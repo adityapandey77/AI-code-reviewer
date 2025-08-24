@@ -58,7 +58,7 @@ npm run dev
 5.Open http://localhost:3000
  in your browser.
 
-📖** Usage**
+📖**Usage**
 
 Open the app.
 
