@@ -22,5 +22,6 @@ You can paste your code into the app, and it will give suggestions and improveme
    cd AI-code-reviewer
 
 2.**Backend setup**
+  ```bash
 cd Backend
 npm install
