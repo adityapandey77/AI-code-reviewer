@@ -8,19 +8,19 @@ Instead of manually reviewing every line of code, this project uses an AI model 
 
 🔍 **What It Does**
 
-*Developers can paste their code into the web app.
+-Developers can paste their code into the web app.
 
-*The backend sends the code to the AI service for analysis.
+-The backend sends the code to the AI service for analysis.
 
-*AI reviews the code and provides:
+-AI reviews the code and provides:
 
- *Suggestions for cleaner, optimized code.
+ -Suggestions for cleaner, optimized code.
 
- *Warnings about possible errors or inefficiencies.
+ -Warnings about possible errors or inefficiencies.
 
- *Recommendations based on coding best practices.
+ -Recommendations based on coding best practices.
 
-*The reviewed feedback is displayed in the frontend in a user-friendly way.
+-The reviewed feedback is displayed in the frontend in a user-friendly way.
 
 🎯 **Why This Project?**
 
@@ -28,21 +28,21 @@ Code reviews are an important part of software development but can be time-consu
 
 It can be useful for:
 
-*Students & Beginners – to get quick code feedback while learning.
+-Students & Beginners – to get quick code feedback while learning.
 
-*Developers – to catch mistakes before submitting code for team review.
+-Developers – to catch mistakes before submitting code for team review.
 
-*Teams – to automate part of the review process and save time.
+-Teams – to automate part of the review process and save time.
 
 🧩 **Key Highlights**
 
-*Full-Stack Implementation: Both backend and frontend included.
+-Full-Stack Implementation: Both backend and frontend included.
 
-*AI Integration: Uses an API key to connect with an AI model.
+-AI Integration: Uses an API key to connect with an AI model.
 
-*Real-Time Feedback: Developers get instant AI suggestions after submitting code.
+-Real-Time Feedback: Developers get instant AI suggestions after submitting code.
 
-*Scalable Design: Can be deployed on platforms like Vercel, Render, or Heroku.
+-Scalable Design: Can be deployed on platforms like Vercel, Render, or Heroku.
 
 ## ✨ **Features**
 - Paste code and get AI-based feedback.
