@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-reviewer-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix Frontend\" \"npm run dev --prefix BackEnd\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
